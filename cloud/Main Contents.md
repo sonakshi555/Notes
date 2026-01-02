@@ -4,16 +4,15 @@
 
 - [[Operating system like LINUX]]
 - [[DevOps fundamental]] & [[DevOps]]
-- [[Computer Network]]
+- [[Network Configuration and trouble shooting]]
 - [[Virtualization]]
 - Git and GitHub
 - CI/CD GitHub actions
 - Scripting
-- Cloud Platform
+- Cloud Platform : AWS
 - Docker
 - Kubernetes : Helm and customize
-- Infrastructure as Code  : Terraform
+- Infrastructure as Code  : Terraform, CFT
 - Ansible : Configuration management
 - Prometheus and Grafana
-- Cloud Platform : AWS
 - PROJECTS

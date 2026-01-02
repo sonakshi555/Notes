@@ -1,4 +1,4 @@
->[[Main Contents]]
+
 
 DevOps is all about automating and streamlining the software development lifecycle so that code moves from development to production quickly, reliably, and securely.
 

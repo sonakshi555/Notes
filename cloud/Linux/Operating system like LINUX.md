@@ -1,4 +1,4 @@
->[[Main Contents]]
+
 
 About [[LINUX commands]]
 

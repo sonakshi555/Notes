@@ -1,0 +1,2 @@
+- [[Automating using AWS API]]
+- [[Create resources in CLI]]
