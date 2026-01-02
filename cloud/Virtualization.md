@@ -76,7 +76,7 @@ Terraform : Open source tool developed and maintained by Hashicorp company.
 - MobaXterm is a Windows application that provides an SSH client
 - SSH (Secure Shell) is a secure way to remotely access and control your server
 - You're using MobaXterm to connect from your local computer to your EC2 instance in the cloud
-
+other options : nomachine ,putty
 ## How It Works
 
 Think of it like this:

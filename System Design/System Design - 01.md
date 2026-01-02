@@ -9,7 +9,6 @@
      quacking
      silence
    
-   
    encapsulating quacking and flying from duck superclass
 2. 
    
