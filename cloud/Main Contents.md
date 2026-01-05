@@ -6,7 +6,7 @@
 - [[DevOps fundamental]] & [[DevOps]]
 - [[Network Configuration and trouble shooting]]
 - [[Virtualization]]
-- Git and GitHub
+- [[Git and GitHub]]
 - CI/CD GitHub actions
 - Scripting
 - Cloud Platform : AWS
