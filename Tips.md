@@ -11,3 +11,8 @@ What is the difference between .sh and .bash and why it is?
 What is the difference between curl and wget command?
 - curl : outputs the file or contents of url
 - wget : downloads and stores the contents in the system , creating a new file
+
+Difference between fork and clone
+how to create a repo in cli
+git lifecylce
+
