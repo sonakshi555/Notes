@@ -12,8 +12,8 @@
 - Cloud Platform : AWS
 - Docker
 - Kubernetes : Helm and customize
-- Infrastructure as Code  : Terraform, CFT
-- Ansible : Configuration management
+- [[Infrastructure as Code - Terraform, CFT]]
+- [[Ansible - Configuration management]]
 - Prometheus and Grafana
 - PROJECTS
 

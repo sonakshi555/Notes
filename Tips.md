@@ -16,3 +16,24 @@ Difference between fork and clone
 how to create a repo in cli
 git lifecylce
 
+What is the difference between EKS and ECS
+
+What is the programming language Ansible uses?
+
+Does ansible support LINUX or windows?
+It supports both and in LINUX is uses SSH protocol
+and in windows , winRM
+
+What is the difference between ansible vs puppet vs chef vs salt
+
+Is ansible PUSH or PULL mechanism ? 
+PUSH
+
+Programming language used in Ansible for playbooks?
+YAML
+
+Does ansible supports all cloud providers ?
+AWS/AZURE/GCP
+it doesn't matter and can works with all
+what matters is that Public IP address , SSH or winRM is enabled to the machine and the machine is public accessible for ansible host playbooks
+
