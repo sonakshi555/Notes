@@ -10,7 +10,7 @@
 - CI/CD GitHub actions
 - Scripting
 - Cloud Platform : AWS
-- Docker
+- [[DOCKER - containers]]
 - Kubernetes : Helm and customize
 - [[Infrastructure as Code - Terraform, CFT]]
 - [[Ansible - Configuration management]]

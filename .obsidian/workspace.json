@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51f0a9d77a4eadff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/Automating using AWS API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Automating using AWS API"
-            }
-          },
-          {
-            "id": "637f5a5fca53e887",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cloud/Linux/LINUX commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LINUX commands"
-            }
-          },
-          {
-            "id": "bd9e39f71f3aff2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/Scripting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scripting"
-            }
-          },
-          {
-            "id": "fae0a90a6458e95c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/Git and GitHub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git and GitHub"
-            }
-          },
-          {
-            "id": "2103cc9e4d7afec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/AWS services.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS services"
-            }
-          },
-          {
-            "id": "03227b34a0e8955d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/AWS services.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AWS services"
-            }
-          },
-          {
-            "id": "6e1758d65063e458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/Infrastructure as Code - Terraform, CFT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as Code - Terraform, CFT"
-            }
-          },
-          {
-            "id": "7ac4834b004eaad2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture/Infrastructure as Code - Terraform, CFT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Infrastructure as Code - Terraform, CFT"
-            }
-          },
-          {
             "id": "ce63bd08db011cda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture/Project management tool.md",
+                "file": "DOCKER/DOCKER - containers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project management tool"
+              "title": "DOCKER - containers"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,25 +185,31 @@
   },
   "active": "50dc2915b5aa1301",
   "lastOpenFiles": [
+    "cloud/other sources/Pasted image 20260116042915.png",
+    "cloud/other sources/Pasted image 20260113233010.png",
+    "cloud/other sources/container-what-is-container.png",
+    "Lecture/Git and GitHub.md",
+    "Lecture/Scripting.md",
+    "cloud/Linux/LINUX commands.md",
+    "Lecture/Automating using AWS API.md",
+    "DOCKER/DOCKER - containers.md",
+    "Lecture/AWS services.md",
     "Lecture/Infrastructure as Code - Terraform, CFT.md",
+    "cloud/Main Contents.md",
+    "cloud/DevOps.md",
+    "DOCKER",
     "Lecture/Project management tool.md",
     "cloud/other sources/WhatsApp Image 2026-01-13 at 15.30.02.jpeg",
     "Lecture/Ansible - Configuration management.md",
-    "Lecture/Automating using AWS API.md",
     "Treasure hunt.md",
     "cloud/other sources/Pasted image 20260105105904.png",
-    "cloud/Main Contents.md",
     "cloud/DevOps fundamental.md",
     "Tips.md",
     "Lecture/Ansible.md",
-    "Lecture/AWS services.md",
-    "Lecture/Git and GitHub.md",
-    "Lecture/Scripting.md",
     "Lecture/Lecture contents.md",
     "buzz word.md",
     "cloud/Computer Network/Network Configuration and trouble shooting.md",
     "Computer Network.md",
-    "cloud/Linux/LINUX commands.md",
     "cloud/Linux/Operating system like LINUX.md",
     "Untitled.canvas",
     "System Design/System Design - 01.md",
@@ -324,8 +217,6 @@
     "cloud/MobaXterm or CMD AWS CLI.md",
     "Lecture",
     "cloud/Virtualization.md",
-    "cloud/DevOps.md",
-    "cloud/Computer Network/Computer Network.md",
-    "System Design/System Design/System Design.md"
+    "cloud/Computer Network/Computer Network.md"
   ]
 }
