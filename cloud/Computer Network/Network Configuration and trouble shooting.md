@@ -28,8 +28,7 @@
    - Address Resolution Protocol
    - used to display and modify ARP cache, which contains the mapping of IP address to MAC address
    - The system's TCP/IP stack uses ARP in order to determine the MAC address associated with an IP address.![[Screenshot-from-2017-05-26-23-38-28.png]]
-   - 
-   - 
+ 
 7. ifconfig
    - utility in an operating system that is used to set or display the IP address and netmask of a network interface.
    - It also provides commands to enable or disable an interface. 

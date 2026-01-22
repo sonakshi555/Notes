@@ -4,11 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "ad7285cf820c19ce",
+        "id": "05121828cdfc9c0f",
         "type": "tabs",
         "children": [
           {
-            "id": "ce63bd08db011cda",
+            "id": "463d3d6cd096b082",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/DOCKER - containers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DOCKER - containers"
+            }
+          },
+          {
+            "id": "22eac4cb3e118e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/Multi Stage Builds.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Multi Stage Builds"
+            }
+          },
+          {
+            "id": "85325511a8a0a6df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/Bind mounts and volumes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bind mounts and volumes"
+            }
+          },
+          {
+            "id": "c5e97100a3645c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DOCKER/Docker network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Docker network"
+            }
+          },
+          {
+            "id": "6f1280da08eb21ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,7 +77,8 @@
               "title": "DOCKER - containers"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -41,7 +98,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git and GitHub.md",
+                "file": "DOCKER/Bind mounts and volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git and GitHub"
+              "title": "Backlinks for Bind mounts and volumes"
             }
           },
           {
@@ -183,20 +240,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "50dc2915b5aa1301",
+  "active": "6f1280da08eb21ad",
   "lastOpenFiles": [
+    "DOCKER/Docker network.md",
+    "DOCKER/DOCKER - containers.md",
+    "DOCKER/Bind mounts and volumes.md",
+    "DOCKER/Multi Stage Builds.md",
+    "cloud/Main Contents.md",
+    "cloud/DevOps.md",
+    "cloud/Linux/Operating system like LINUX.md",
+    "cloud/Linux/LINUX commands.md",
+    "cloud/Computer Network/Network Configuration and trouble shooting.md",
     "cloud/other sources/Pasted image 20260116042915.png",
     "cloud/other sources/Pasted image 20260113233010.png",
     "cloud/other sources/container-what-is-container.png",
     "Lecture/Git and GitHub.md",
     "Lecture/Scripting.md",
-    "cloud/Linux/LINUX commands.md",
     "Lecture/Automating using AWS API.md",
-    "DOCKER/DOCKER - containers.md",
     "Lecture/AWS services.md",
     "Lecture/Infrastructure as Code - Terraform, CFT.md",
-    "cloud/Main Contents.md",
-    "cloud/DevOps.md",
     "DOCKER",
     "Lecture/Project management tool.md",
     "cloud/other sources/WhatsApp Image 2026-01-13 at 15.30.02.jpeg",
@@ -208,15 +270,11 @@
     "Lecture/Ansible.md",
     "Lecture/Lecture contents.md",
     "buzz word.md",
-    "cloud/Computer Network/Network Configuration and trouble shooting.md",
     "Computer Network.md",
-    "cloud/Linux/Operating system like LINUX.md",
     "Untitled.canvas",
     "System Design/System Design - 01.md",
     "Lecture/Create resources in CLI.md",
     "cloud/MobaXterm or CMD AWS CLI.md",
-    "Lecture",
-    "cloud/Virtualization.md",
-    "cloud/Computer Network/Computer Network.md"
+    "Lecture"
   ]
 }
